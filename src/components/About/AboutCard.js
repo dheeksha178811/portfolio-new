@@ -8,15 +8,14 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone! I’m <span className="purple">Soumyajit Behera</span>{" "}
-            from <span className="purple">Bhubaneswar, India</span>.
+            Hi everyone! I'm <span className="purple">Dheeksha V</span>{" "}
+            from <span className="purple">Tamil Nadu, India</span>.
             <br />
-            I’m currently working as a{" "}
-            <span className="purple">Software Developer</span> at{" "}
-            <span className="purple">Juspay</span>.
-            <br />I hold an Integrated M.Sc. (IMSc) in{" "}
-            <span className="purple">Mathematics and Computing</span> from{" "}
-            <span className="purple">BIT Mesra</span>.
+            I'm a <span className="purple">B.Tech Information Technology</span> student at{" "}
+            <span className="purple">Bannari Amman Institute of Technology</span> with{" "}
+            <span className="purple">strong expertise in Java-based Full Stack Development, OOPs, and AI-driven automation</span>.
+            <br />I have led and contributed to multiple AI and automation projects,{" "}
+            <span className="purple">improving operational efficiency by 4x</span>.
             <br />
             <br />
             Outside of coding, I love engaging in activities that keep me
@@ -25,20 +24,20 @@ function AboutCard() {
 
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games 🎮
+              <ImPointRight /> Building AI & Automation Solutions 🤖
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs ✍️
+              <ImPointRight /> Contributing to Open Source 💻
             </li>
             <li className="about-activity">
-              <ImPointRight /> Traveling and Exploring New Places 🌍
+              <ImPointRight /> Exploring Emerging Technologies 🔍
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Dheeksha</footer>
         </blockquote>
       </Card.Body>
     </Card>
